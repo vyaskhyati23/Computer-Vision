@@ -1,0 +1,10 @@
+% @author: Khyati K.Vyas
+function HW06_VYAS_KHYATI_MAIN()
+
+HW06_VYAS_KHYATI_FIND_RASPBERRIES(); 
+pause(3);
+HW06_VYAS_KHYATI_FIND_GRAFFITI(); 
+pause(3);
+HW06_VYAS_KHYATI_FIND_AIRPLANE();
+
+end
