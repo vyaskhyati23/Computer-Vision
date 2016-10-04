@@ -1,1 +1,0 @@
-There are 4 images in the TEST_IMAGES folder that needs to be included with the TEST_IMAGES folder containing all the images.
