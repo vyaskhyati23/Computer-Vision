@@ -8,3 +8,5 @@
  7. Bottle is deformed (i.e. squashed) in some way 
  
  There are 4 images in the TEST_IMAGES folder that needs to be included with the TEST_IMAGES folder containing all the images.
+
+P.S. Test images available upon request
